@@ -1,0 +1,9 @@
+export const ADD_TODO = "ADD_TODO";
+export const REMOVE_TODO = "REMOVE_TODO";
+export const TODO_SET_COMPLETE = "TODO_SET_COMPLETE";
+export const TODO_REMOVE = "TODO_REMOVE";
+export const TODO_ADD = "TODO_ADD";
+export const TODO_UPDATE = "TODO_UPDATE";
+export const TODO_LOADING = "TODO_LOADING";
+export const TODO_FINISHED = "TODO_FINISHED";
+export const TODO_LOAD = "TODO_LOAD";
